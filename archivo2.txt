@@ -1,2 +1,0 @@
-archivo de prueba dos con git , cambios
-agregando mas texto para el comando commit
